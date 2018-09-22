@@ -1,2 +1,2 @@
 # neural1layer
-1-layere neural networks for classification
+1-layer neural networks for classification
